@@ -1,0 +1,25 @@
+{
+  "values": [
+    {
+      "title": "My Value",
+      "description": "This is a great value.",
+      "id": 1
+    },
+    {
+      "title": "Other Value",
+      "description": "Here's some value",
+      "id": 2
+    },
+    {
+      "title": "I Created This Value",
+      "description": "This change was made by a PATCH request",
+      "userId": "111113427830310115815",
+      "id": 3
+    },
+    {
+      "title": "Me Value Component Reuse!",
+      "description": "This value is about refactoring!!!",
+      "id": 4
+    }
+  ]
+}
